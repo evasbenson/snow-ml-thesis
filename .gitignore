@@ -1,0 +1,18 @@
+# Large data files — never commit these
+*.tif
+*.tar
+*.gz
+*.dat
+*.img
+gee/
+snodas/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+*.egg-info/
+
+# System
+.DS_Store
