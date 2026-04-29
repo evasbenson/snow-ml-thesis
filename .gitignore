@@ -16,3 +16,6 @@ venv/
 
 # System
 .DS_Store
+*.zip
+*.textClipping
+untitled*
