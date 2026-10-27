@@ -1,0 +1,14 @@
+SAGDP2 Gross domestic product (GDP) by state 1
+"Gross domestic product (GDP) by state: Arts, entertainment, and recreation (Millions of current dollars)"
+State or DC
+GeoFIPS,GeoName,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
+08000,Colorado,3317.2,4182.8,4740.3,5318.1,5674.7,5957.3,6081.0,5913.7,4399.0,5551.7,7108.0,7877.1,8223.4
+16000,Idaho,377.2,391.7,414.5,427.9,499.4,558.5,640.2,689.0,569.8,798.0,916.7,1014.1,1061.3
+30000,Montana,489.8,499.0,553.5,558.1,580.5,621.9,645.3,663.8,588.5,865.2,842.1,872.7,962.9
+35000,New Mexico,668.9,653.3,674.8,636.8,667.9,667.2,726.1,803.3,538.2,796.9,966.3,1040.5,1108.6
+49000,Utah,1031.5,1098.2,1155.5,1212.1,1379.8,1554.5,1625.4,1665.4,1400.2,1726.2,2202.4,2312.0,2544.7
+56000,Wyoming,260.9,250.8,276.3,259.6,260.2,277.9,297.1,305.8,279.9,357.1,406.4,448.0,531.9
+
+Legend/Footnotes
+1. Gross Domestic Product (GDP) is in millions of current dollars (not adjusted for inflation). Industry detail is based on the 2017 North American Industry Classification System (NAICS). Calculations are performed on unrounded data.
+"  Last updated: September 30, 2026-- revised statistics for 2019-2025."
