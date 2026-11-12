@@ -1,0 +1,12 @@
+IV Robustness Check: Snow → Arts/Rec GDP
+Instruments: oni_dm, pdo_dm
+County + year FE removed via two-way demeaning
+
+                              OLS      2SLS-IV
+beta (snow_dm)            -0.0002       0.0000
+SE (HC1)                   0.0010          nan
+p-value                     0.805          nan
+95% CI [low, high]            --- [nan, nan]
+First-stage F                 --- 0.00
+
+Literature: Scott et al. (2008) elasticity → log-log beta ≈ 0.0080

@@ -1,0 +1,6 @@
+Alternative Robustness Checks: Snow → Arts/Rec County GDP
+Literature (Scott et al. 2008): β=0.0080 (0.80%/day)
+
+Check 1 (County FE + climate controls): β=-0.0036  SE=0.0027  p=0.185
+Check 2 (Cross-sectional 2SLS):         β=+0.0320  SE=0.0372  p=0.399  F_first=1.80
+Check 3 (County + state×year FE):       β=-0.0002  SE=0.0012  p=0.863
