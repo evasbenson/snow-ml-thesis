@@ -1,0 +1,10 @@
+warming_C,Model,elasticity,va_change_millions
+1,Fixed Effects,0.5,-64.35333746358677
+1,Random Forest,0.5,-55.67275058731177
+1,XGBoost,0.5,-66.21072913681627
+2,Fixed Effects,0.5,-140.27340404329763
+2,Random Forest,0.5,-125.49458050306363
+2,XGBoost,0.5,-135.88452837282657
+3,Fixed Effects,0.5,-227.88368910238455
+3,Random Forest,0.5,-192.7009184670011
+3,XGBoost,0.5,-202.27363248237134
