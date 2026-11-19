@@ -1,0 +1,37 @@
+Model,Scenario,Demand assumption,Mean_demand_change_pct,Mean_demand_index
+Fixed Effects,Baseline,High response,0.0,100.0
+Fixed Effects,Baseline,Low response,0.0,100.0
+Fixed Effects,Baseline,Medium response,0.0,100.0
+Fixed Effects,PDD +100,High response,-11.64865594207395,88.35134405792606
+Fixed Effects,PDD +100,Low response,-3.0615224038523525,96.93847759614764
+Fixed Effects,PDD +100,Medium response,-6.020958464990259,93.97904153500974
+Fixed Effects,PDD +25,High response,-2.906512950153498,97.0934870498465
+Fixed Effects,PDD +25,Low response,-0.735355047025997,99.264644952974
+Fixed Effects,PDD +25,Medium response,-1.4648580016764159,98.53514199832358
+Fixed Effects,PDD +50,High response,-5.818815224236905,94.1811847757631
+Fixed Effects,PDD +50,Low response,-1.490379400667362,98.50962059933264
+Fixed Effects,PDD +50,Medium response,-2.9566890043315954,97.04331099566839
+Random Forest,Baseline,High response,1.0547118733938987e-15,100.0
+Random Forest,Baseline,Low response,-7.216449660063518e-16,100.0
+Random Forest,Baseline,Medium response,-3.1363800445660672e-15,100.0
+Random Forest,PDD +100,High response,-6.7777625258920935,93.22223747410791
+Random Forest,PDD +100,Low response,-1.753159027806428,98.24684097219357
+Random Forest,PDD +100,Medium response,-3.466494455649443,96.53350554435056
+Random Forest,PDD +25,High response,-1.6239811286426893,98.37601887135732
+Random Forest,PDD +25,Low response,-0.41083424744973635,99.58916575255027
+Random Forest,PDD +25,Medium response,-0.8184199659939574,99.18158003400603
+Random Forest,PDD +50,High response,-3.4484911344972904,96.55150886550271
+Random Forest,PDD +50,Low response,-0.8799219855133594,99.12007801448664
+Random Forest,PDD +50,Medium response,-1.7478435439599225,98.25215645604008
+XGBoost,Baseline,High response,0.0,100.0
+XGBoost,Baseline,Low response,0.0,100.0
+XGBoost,Baseline,Medium response,0.0,100.0
+XGBoost,PDD +100,High response,-6.4293248795373446,93.57067512046265
+XGBoost,PDD +100,Low response,-1.6663090624807437,98.33369093751926
+XGBoost,PDD +100,Medium response,-3.292546368216814,96.7074536317832
+XGBoost,PDD +25,High response,-1.5330516295359984,98.466948370464
+XGBoost,PDD +25,Low response,-0.3914838043198437,99.60851619568015
+XGBoost,PDD +25,Medium response,-0.7774025608820883,99.2225974391179
+XGBoost,PDD +50,High response,-3.234402137131226,96.76559786286879
+XGBoost,PDD +50,Low response,-0.8284314884497256,99.17156851155026
+XGBoost,PDD +50,Medium response,-1.643446271427644,98.35655372857237
