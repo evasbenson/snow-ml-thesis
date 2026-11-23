@@ -1,0 +1,22 @@
+{
+  "model": "Recursive XGBoost",
+  "target": "Daily change in SNODAS snow depth (m)",
+  "train_winters": "2004-2017",
+  "validation_winters": "2018-2020",
+  "test_winters": "2021-2023",
+  "number_of_resorts": 91,
+  "feature_count": 26,
+  "initial_snow_depth_m": 0.0,
+  "season_threshold_m": 0.3,
+  "minimum_consecutive_days": 14,
+  "validation_daily_mae_m": 0.1542,
+  "validation_daily_r2": 0.8443,
+  "validation_season_mae_days": 21.5,
+  "test_daily_mae_m": 0.157,
+  "test_daily_rmse_m": 0.2677,
+  "test_daily_r2": 0.884,
+  "test_season_mae_days": 18.38,
+  "test_season_rmse_days": 27.15,
+  "test_season_bias_days": 4.3,
+  "xgboost_version": "3.4.1"
+}

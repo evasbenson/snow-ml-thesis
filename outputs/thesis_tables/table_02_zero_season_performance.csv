@@ -1,0 +1,4 @@
+Period,Observed zero seasons,Predicted zero seasons,Recall
+Training,61,29,0.4098360655737705
+Validation,13,2,0.15384615384615385
+Test,6,2,0.3333333333333333

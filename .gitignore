@@ -1,21 +1,20 @@
-# Large data files — never commit these
-*.tif
-*.tar
-*.gz
-*.dat
-*.img
-gee/
-snodas/
+# Large raw datasets
+/inputs/
 
-# Python
+# Python temporary files
 __pycache__/
-*.pyc
+*.py[cod]
 .ipynb_checkpoints/
+.venv/
 venv/
-*.egg-info/
 
-# System
+# macOS
 .DS_Store
-*.zip
-*.textClipping
-untitled*
+
+# Temporary logs
+*.log
+
+# Credentials
+.env
+.env.*
+*.pem

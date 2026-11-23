@@ -1,0 +1,92 @@
+resort_id,resort_name,nsaa_region,latitude,longitude,state_name,state
+f357cc18ead38a393c55cf27921fe05913dc33e1,Bear Valley,Pacific Southwest,38.482607,-120.050297,California,CA
+9e118f4eb36fb34e987c7a3ddd7f2d976b6a7443,China Peak Mountain Resort,Pacific Southwest,37.22644,-119.158053,California,CA
+162525ff9a2a65810a602b74f338303d1bb9ea38,Dodge Ridge Ski Area,Pacific Southwest,38.189917,-119.939334,California,CA
+f3545b1a07aba1aff23c5cb645c24225d9eea12a,Homewood Ski Area,Pacific Southwest,39.078191,-120.169056,California,CA
+1f94daed2b308fa325be064eebc82535fcc3861b,June Mountain,Pacific Southwest,37.753661,-119.075663,California,CA
+718db266e6e9ec76a5003a404aec69a657b3ab33,Kirkwood Mountain Resort,Pacific Southwest,38.678978,-120.067434,California,CA
+ba4944ecd2e640acedf666287f228427b607680e,Mammoth Mountain,Pacific Southwest,37.644353,-119.008844,California,CA
+d02d16e39611d48a0421991064355899bce16402,Mt. Shasta Ski Park,Pacific Southwest,41.327341,-122.200772,California,CA
+717fe0e81e226ce0361fb10dc24e9f863eeda6ba,Northstar at Tahoe Resort,Pacific Southwest,39.263141,-120.133082,California,CA
+01fc91766cf1ba8156fdc3d233e90205b0dd3001,Palisades Tahoe Alpine Meadows,Pacific Southwest,39.155639,-120.23782,California,CA
+fa7bea0bfe372c06b3cccc3e8113949837d688fb,Palisades Tahoe Olympic Valley,Pacific Southwest,39.193418,-120.245394,California,CA
+0558a46359e12971010ba1ba17046a6bf304e6af,Sierra-at-Tahoe Ski Resort,Pacific Southwest,38.797438,-120.076847,California,CA
+553e5c0881466894501e5f56ab41ba951300fc75,Snow Summit,Pacific Southwest,34.22764,-116.890505,California,CA
+fa95641c38a689ebebd96aa62b6ee049115fbeee,Sugar Bowl Resort,Pacific Southwest,39.30025,-120.335048,California,CA
+3f61859b47be735a77df9b1b9e102edbeb529286,Heavenly Mountain Resort,Pacific Southwest,38.937462,-119.910798,California,CA
+1e281ff389476a82150ad7ef7be5f1ea48edd5e5,Arapahoe Basin,Rocky Mountain,39.631461,-105.877144,Colorado,CO
+0469463129ab65721499780f98a6394662564f32,Aspen Highlands,Rocky Mountain,39.163719,-106.861619,Colorado,CO
+2a2d5ad1138c3aac0abe644e073bee96589412d4,Aspen Mountain,Rocky Mountain,39.165589,-106.819323,Colorado,CO
+03b56bd47b26c384d82474a2fb4b3fbc3a0c4a31,Aspen Snowmass,Rocky Mountain,39.198398,-106.949915,Colorado,CO
+1185f0916cf0cbf03f6b75c9d1449b86afb1516d,Beaver Creek Resort (Arrowhead Mountain),Rocky Mountain,39.604487,-106.529633,Colorado,CO
+27206747b07d41c64659c2ffd8753c554127752d,Breckenridge Ski Resort,Rocky Mountain,39.47225,-106.065712,Colorado,CO
+aecc514c89c8ea9a6b3b8bac5e7468ef23917b60,Buttermilk,Rocky Mountain,39.192297,-106.870089,Colorado,CO
+d43648091063085b0a0a7d764fad80b778ee6e48,Cimarron Mountain Club,Rocky Mountain,38.297784,-107.61898,Colorado,CO
+0bab3102857cf4c7243d3db844c283a24413fa28,Copper Mountain,Rocky Mountain,39.491493,-106.158353,Colorado,CO
+c7ba44969ddc615ea94968125fc96d9b584c388f,Crested Butte Mountain Resort,Rocky Mountain,38.899391,-106.949806,Colorado,CO
+a2909bf21b379e545b5be4f1dbe9b6c334e9e41c,Eldora,Rocky Mountain,39.939713,-105.591961,Colorado,CO
+9153444372de6ac1b7b4c41695defb5ee00eff1c,Granby Ranch,Rocky Mountain,40.036663,-105.904801,Colorado,CO
+7d855b81e131f7cb7bdbc7b55e47a18d3ccb5e67,Keystone,Rocky Mountain,39.583344,-105.933814,Colorado,CO
+1dd2321e1ddaeaba8ad3d040cd145bd2ad08c028,Loveland Basin Ski Area,Rocky Mountain,39.6778,-105.909208,Colorado,CO
+cbf5bcc5f265cec9368d353e2ab6ecb6c9e41a4c,Monarch Mountain,Rocky Mountain,38.516827,-106.344362,Colorado,CO
+ad4b81c2172308bc79a3d488e3908f5663a3059e,Powderhorn,Rocky Mountain,39.060569,-108.152196,Colorado,CO
+66ebd7d72089d0697f49126b4fe6bfadbb08f9e0,Purgatory Resort,Rocky Mountain,37.626135,-107.826472,Colorado,CO
+caf0bd6c118f5974144ef382d4a267f5aefb2366,Ski Cooper,Rocky Mountain,39.355934,-106.288898,Colorado,CO
+5267096488ef4504f32f94de066e28cd88b7830e,Steamboat Ski Resort,Rocky Mountain,40.460962,-106.776852,Colorado,CO
+c4431109a3fd5c562c509e2320a86c169aed0dd7,Sunlight Mountain Resort,Rocky Mountain,39.394177,-107.338956,Colorado,CO
+c036edc54d4fe7d4c6f93de5b9f3dcaff34a5a64,Telluride Ski Area,Rocky Mountain,37.919669,-107.834827,Colorado,CO
+88a22ba23468cf120025366ef40f004c9043546e,Vail,Rocky Mountain,39.623789,-106.365457,Colorado,CO
+eac3283b22abc1d56081b11e2c4867209961f982,Winter Park Resort,Rocky Mountain,39.866042,-105.780808,Colorado,CO
+0509d7d69847b7f5da4850cc299a909099d5382f,Wolf Creek Ski Area,Rocky Mountain,37.46321,-106.79045,Colorado,CO
+f0fca4018306a921928ebc2f04cfd1ac82ba1ef2,Bogus Basin Mountain Recreation Area,Rocky Mountain,43.770328,-116.093162,Idaho,ID
+599ab4e38467e64159f25ffe13e0716a485d7cca,Brundage Mountain,Rocky Mountain,44.999756,-116.142902,Idaho,ID
+404f9961432a5c4db64c85b97591e6bbe7c7f8fc,Kelly Canyon Ski Resort,Rocky Mountain,43.640828,-111.622233,Idaho,ID
+d6ccc4b24a3ff6253ea1439cf75e74bdf5f80579,Pebble Creek,Rocky Mountain,42.773756,-112.151682,Idaho,ID
+14ec9ceb98c4ce0cdc13b6fc73ab12fe20c95a1f,Pomerelle Mountain Resort,Rocky Mountain,42.314305,-113.611168,Idaho,ID
+13b3d7f0eedbbdcdfc35e91a0bd55523e2d448ad,Schweitzer Mountain Resort,Rocky Mountain,48.386605,-116.619495,Idaho,ID
+d25d32a3fc9e2109feb7a784cd62e354fbb866c6,Silver Mountain Resort,Rocky Mountain,47.505389,-116.131361,Idaho,ID
+6b5d7d129610235541aade75781befaa8dd22622,Soldier Mountain Ski Area,Rocky Mountain,43.48904,-114.838282,Idaho,ID
+b9ec1edd75823059c063c7c7b2a4078cf82542ab,Sun Valley - Bald Mountain,Rocky Mountain,43.667482,-114.39124,Idaho,ID
+063937ba03fcc9ee00d5a60da62d664623841eec,Tamarack Resort,Rocky Mountain,44.682239,-116.142148,Idaho,ID
+6203d7697ddd064b9db6405244468bf20fba9830,Lookout Pass,Rocky Mountain,47.451816,-115.715948,Montana,MT
+4451d38d77aaff6785c0c786ef45e58f1729e0be,Lost Trail,Rocky Mountain,45.69625,-113.95582,Montana,MT
+d4086b2e9d44022ca27bde811816b5a4fc859c87,Big Sky Resort,Rocky Mountain,45.273888,-111.419462,Montana,MT
+09a69f4760c28437f6df8cb4d69eb6dea8452fc4,Blacktail Mountain Ski Area,Rocky Mountain,48.022915,-114.373526,Montana,MT
+fef67ddf6ff39f1d90e8b4152933479fe7258284,Bridger Bowl,Rocky Mountain,45.817984,-110.91226,Montana,MT
+c2aa4bc4a3f18ed27833da4df260df5a40ecfb03,Discovery Ski Area,Rocky Mountain,46.265024,-113.251085,Montana,MT
+30c18ba69d27fcd201067270535c9e43075a79e3,Great Divide Ski Area,Rocky Mountain,46.752142,-112.326932,Montana,MT
+1899d3be7b756dfaa8181c0c6970de5c6e3062b7,Montana Snowbowl,Rocky Mountain,47.02043,-114.00368,Montana,MT
+c67f75462733dca449d070942e082a1c1a7d0689,Red Lodge Mountain,Rocky Mountain,45.187898,-109.358548,Montana,MT
+fbff3ec1a04b26ff94e1f1356e35767dfdf1594e,Showdown,Rocky Mountain,46.836067,-110.708369,Montana,MT
+a9b9ab0ad6bb668e32b74a1745baa5974cdef3ec,Whitefish Mountain Resort,Rocky Mountain,48.494633,-114.344921,Montana,MT
+f733f44e7f4ba14c3270c734a10424ed8ff5905f,Yellowstone Club,Rocky Mountain,45.239695,-111.432623,Montana,MT
+acd006bbb7f5cc2bb54086eb2f4ff8475af88e28,Hoodoo Ski Area,Pacific Northwest,44.405389,-121.879157,Oregon,OR
+df0ebcea3daf2a4ad2c46e99f043d37d57cf1b9b,Mt. Bachelor,Pacific Northwest,43.993883,-121.682948,Oregon,OR
+effda1f2db54d33bc3770670cd4335bd56a41eec,Mt. Hood Meadows Ski Resort,Pacific Northwest,45.335225,-121.661789,Oregon,OR
+4edeb68c1b51b4fce1d7289cf145de7e1b7b70cc,Mt. Hood Skibowl,Pacific Northwest,45.294268,-121.771059,Oregon,OR
+482cba0a21d6f161d1e96582ae9274b1fb0f6740,Timberline Lodge Ski Area,Pacific Northwest,45.323231,-121.71667,Oregon,OR
+926bbb0835ac3d008a9b5a4c718c9dd6c7fcf3d3,Willamette Pass,Pacific Northwest,43.608405,-122.023636,Oregon,OR
+317407e2fb14035f61d6d927530f04e42b3a277b,Alta Ski Area,Rocky Mountain,40.573361,-111.635515,Utah,UT
+c3bb5fd130638c068edb6cd5198a50f113be4425,Beaver Mountain,Rocky Mountain,41.971773,-111.550144,Utah,UT
+d17554e2aaa5a02bbc98023dd1f5cf4e17c6107e,Brian Head Resort,Rocky Mountain,37.689158,-112.846101,Utah,UT
+ab2b5807422f8a412c013e32e73b521f76a65d98,Brighton Resort,Rocky Mountain,40.594564,-111.582041,Utah,UT
+b7a200210f3dac1b9a5ca7b71429e6205c8c413e,Deer Valley Resort,Rocky Mountain,40.627667,-111.482878,Utah,UT
+72510c18b4eb758d0daab8290bda044c27c5405f,Eagle Point,Rocky Mountain,38.322228,-112.378016,Utah,UT
+ea9d33fa9e878e325e20d33e6ae1b855ef51eade,Nordic Valley Resort (Wolf Mountain),Rocky Mountain,41.305998,-111.866462,Utah,UT
+3dad9d62b112c018cb658fd1eb49bcd41c96f257,Park City Mountain Resort,Rocky Mountain,40.656901,-111.537859,Utah,UT
+e15b214ba75941c2a0150d22cd5e75584bf9c068,Powder Mountain Ski Resort,Rocky Mountain,41.375487,-111.762111,Utah,UT
+423504a1fa53bcfbe5bf956f0cd48c12868c7f06,Snowbasin Resort,Rocky Mountain,41.20082,-111.862947,Utah,UT
+8cbbb46cdace32e91492bfe6abd8014ed16328e6,Snowbird,Rocky Mountain,40.57148,-111.640991,Utah,UT
+b40e925163e2330550f940711b8571409fafb3a4,Solitude Mountain Resort,Rocky Mountain,40.614572,-111.600985,Utah,UT
+745a3b9611363f0f1ca4f55e5403f39dede94ebb,Sundance Resort,Rocky Mountain,40.381251,-111.589267,Utah,UT
+fa3c2fbb3a1f1d38ca51debcbc2dd419b875cb4a,Wasatch Peaks Ranch,Rocky Mountain,41.096818,-111.830268,Utah,UT
+714edf91084f6337747764d63aa21f3381be33e2,49° North Mountain Resort,Pacific Northwest,48.293722,-117.561484,Washington,WA
+89f555b5b8a62c0c002adaa796997b635f38e6da,Crystal Mountain,Pacific Northwest,46.934822,-121.49019,Washington,WA
+7d36a2d6c6dbcd0a0fb80e2bb65700cb3f6981da,Mission Ridge,Pacific Northwest,47.280643,-120.410937,Washington,WA
+d272da6efb174a96c70b157b6c4cf370f8d5da87,Mt Baker,Pacific Northwest,48.857115,-121.665157,Washington,WA
+8e5e9380d0d0cc2fb2476b4df89e04ac0da644c7,Mt. Spokane,Pacific Northwest,47.927813,-117.107169,Washington,WA
+53a4f73effb0655bdb69989c1fb297c8206d04dc,Stevens Pass,Pacific Northwest,47.737419,-121.09096,Washington,WA
+bd78d22761819b620dbaca7bdbdafc9205b08a32,Three Summits,Pacific Northwest,47.401394,-121.413157,Washington,WA
+da6da566549a988c9265ac7bc387e2c7fb59bd56,White Pass Ski Area,Pacific Northwest,46.624114,-121.396901,Washington,WA
+84ddf46f67c0fca577dc969188dc189f1c7a040f,Grand Targhee Resort,Rocky Mountain,43.786422,-110.947754,Wyoming,WY
+2b812055300b5107fc2ffed8f5ae27a4c4f94f0a,Jackson Hole Mountain Resort,Rocky Mountain,43.603245,-110.849986,Wyoming,WY
